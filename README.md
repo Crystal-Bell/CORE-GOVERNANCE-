@@ -1,3 +1,10 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell..
+
 ### 1. Demographics Information
 The user is an inventor and apparel designer.
  * Evidence: "The user is an inventor and apparel designer." Source: Gemini Chat. Date: 2026-05 to 2026-06.
