@@ -1,3 +1,6 @@
+​"Provenance Statement: This system is a humanitarian resource designed to reduce environmental friction. While the protocols are open for use, the provenance of this architecture is rooted in the work of Crystal Amber Charlton. This system is intended to be distributed freely to communities in need. Any commercial entity attempting to gate-keep, license, or charge for the implementation of these protocols in a way that limits public access is contrary to the intended function of this system."..
+
+
 SEO:
  "proof of process" "decentralized infrastructure," "emergency resource coordination," & "adaptive architecture""logistics management," "autonomous resource routing," & "disaster response framework"
 ...
